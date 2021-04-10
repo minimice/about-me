@@ -1,36 +1,88 @@
 
 # About me
-Hello there, I'm **Chooi Guan**!  This repo contains work that I've done through my career.  I work as a Cloud architect specialising in Cloud and DevOps.  I have lived and worked in 5 countries as of 2021.
-Here's a short summary of my career.
+Hello there, I'm **Chooi Guan**.  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals) which later got acquired by Pfizer.  Later down the road even before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals.  I utilise my technical skills, ability to work with others and deliver quality software, to work, travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 15 years.  One of my life goals is to live and work in North America.
 
-*Feb 2021 to Present (Sweden)*
+If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
 
-At H&M working in the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.
+## Education
+* Executive MBA (Accredited), Quantic School of Business and Technology, Washington DC, USA, 2019
+* Bachelors of Science (Honours 1) University Medallist Candidate (Top 1% of cohort), University of Queensland, Australia, 2006
+* Diploma in E-Business Application Development (Graduated top of cohort), Temasek Polytechnic, Singapore, 2003
+* Diploma in Multimedia Software Engineering, Singapore Polytechnic, Singapore, 2000
 
-*August 2020 to Feb 2021 (Sweden)*
+## Awards
+* AWS re:Invent Hackathon for Good winner, 2019
+* Executive MBA scholarship, 2018 *($2800 USD value)*
+* Apple WWDC scholarship, 2006 *($2500 USD value)*
+* University of Queensland ITEE scholarship, 2004 *($50000 USD value)*
 
-At Sinch RTC operations team where I helped to improve/monitor their infrastructure on AWS.  Their platform enables billions of transactions a year.
+## Certifications
+* See [here](https://www.dropbox.com/s/6dkoz9zes4s6llr/cv-certifications-2018.pdf?dl=0)
 
-*July 2019 to September 2019 (UAE)*
+## Career
+## 🇸🇪
+**H&M**  
+*Feb 2021 to Present*
 
-At Etisalat working on the Expo 2020 project.
+Working in the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.
 
-*Feb 2017 to June 2019 (Sweden)*
+**Sinch**  
+*August 2020 to Feb 2021*
 
-At Scania where I helped two teams (Driver Evaluation, Strategic Planning) with their cloud journey.
+In the RTC operations team where I helped to improve/monitor their infrastructure on AWS.  Their platform enables billions of transactions a year.
 
-*May 2016 to Jan 2017 (Sweden)*
+## 🇦🇪
+**Etisalat**  
+*July 2019 to Sept 2019*
 
-At Record Union, a small startup where I worked as Senior Software Engineer and Scrum Master.
+Served as AWS Architect working on the Expo 2020 project.
 
-*Nov 2010 to Jan 2016 (Norway)*
+## 🇸🇪
+**Scania**  
+*Feb 2017 to June 2019*
 
-At Cisco Systems where I worked in the Core TMS team.
+Team Cloud Lead where I helped two teams (Driver Evaluation, Strategic Planning) with their cloud journey.
 
-*Oct 2007 to Oct 2010 (Australia)*
+**Record Union**  
+*May 2016 to Jan 2017*
 
-At Boeing where I worked in the IPTIS (journey planning) team.
+A small startup where I worked as Senior Software Engineer and Scrum Master.
 
-*Feb 2004 to Sept 2007 (Singapore)*
+## 🇳🇴
+**Cisco Systems**  
+*Nov 2010 to Jan 2016*
 
-Founder of Skyjuice Software.
+Senior Software Engineer (Software Engineer III) where I worked in the Core TMS team.
+
+## 🇦🇺
+
+**Boeing**  
+*Oct 2007 to Oct 2010*
+
+Senior Software Engineer where I worked in the IPTIS (journey planning) team.
+
+**The Bridge Volunteer Organisation**  
+*Jan 2007 to Nov 2008* 
+
+Executive Vice President for IT and Web, volunteer work.
+
+**Ericsson**  
+*Oct 2006 to Nov 2006*
+
+IT Consultant where I created macros generating Excel reports in VBA for the team for a HSDPA bidding project in the Brisbane office.
+
+**University of Queensland**  
+*July 2005 to June 2006*
+
+Held four roles where I was:
+- University Tutor for Project Management
+- University Tutor for Web Scripting
+- University Tutor for Robocup Jr 
+- Research Assistant for Psychology
+
+
+## 🇸🇬
+**Skyjuice Software**  
+*Feb 2004 to Sept 2007*
+
+Founder of Skyjuice Software which was formally registered as a business in 2004.
