@@ -21,6 +21,8 @@ If you're interested in reading the story of Skyjuice Software, you can find out
 <a href="https://badgr.com/backpack/badges/608738375c23af1781901a8a" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-0fi5hTs4R72BgTQVc6FF_A.png" width="100px" height="100px"></a>
 <a href="https://devpost.com/cloudarchitect/achievements" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/devpost-569520.png" width="100px" height="100px"/></a>
 <a href="https://www.hackerrank.com/minimice" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="100px" height="100px"></a>
+<a href="#" target="_blank"><img src="https://www.angelleye.com/wp-content/uploads/2011/07/paypal-certified-developer-logo-featured.png" width="203px" height="113px"></a>
+
 * See [here](https://www.dropbox.com/s/6dkoz9zes4s6llr/cv-certifications-2018.pdf?dl=0) for more
 
 ## Career
