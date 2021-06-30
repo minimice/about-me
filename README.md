@@ -4,6 +4,8 @@ Hello there, I'm **Chooi Guan**.  This repo contains work and references that I'
 
 If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
 
+**TDLR; I can help you build the next Amazon.com**
+
 ## Education
 * Executive MBA (Accredited), Quantic School of Business and Technology, Washington DC, USA, 2019
 * Bachelors of Science (Honours 1) University Medallist Candidate (Top 1% of cohort), University of Queensland, Australia, 2006
