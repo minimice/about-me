@@ -31,10 +31,15 @@ If you're interested in reading the story of Skyjuice Software, you can find out
 
 ## Career
 ## 🇸🇪
-**H&M**  
-*Feb 2021 to Present*
+**Schibsted**  
+*Oct 2021 to March 2022*
 
-Working in the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.
+In the Cloud Governance team where I served as the AWS expert, providing best practise guidance on everything cloud.
+
+**H&M**  
+*Feb 2021 to Oct 2021*
+
+In the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.  I built terraform modules and served as the IaC expert, evaluating every team's IaC maturity level in the AI foundation business unit.
 
 **Sinch**  
 *August 2020 to Feb 2021*
