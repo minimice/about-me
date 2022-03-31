@@ -2,7 +2,9 @@
 # About me
 Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals with a customer base in the thousands.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 15 years.  One of my life goals is to live and work in North America.
 
-If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
+❓ If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
+
+🔎 Find me on [Linkedin](https://www.linkedin.com/in/cgl88/).
 
 **TDLR; I can help you build the next Amazon.com**
 
