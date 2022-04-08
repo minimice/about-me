@@ -32,7 +32,18 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 * See [here](https://www.dropbox.com/s/6dkoz9zes4s6llr/cv-certifications-2018.pdf?dl=0) for more
 
 ## Career
+## 🇺🇸
+**CompTIA (Remote)**  
+*April 2022 to April 2022*
+
+I served as a Subject Matter Expert (SME) for CompTIA’s Coding Foundations+ Objective Development workshop where I worked with a team of SMEs to develop the content of the certification exam by focusing on the technologies, skills, and best practices used by industry professionals.
+
 ## 🇸🇪
+**SEBx**  
+*April 2022 to Present*
+
+In the platform engineering team.
+
 **Schibsted**  
 *Oct 2021 to March 2022*
 
