@@ -33,10 +33,10 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 
 ## Career
 ## 🇺🇸
-**CompTIA (Remote)**  
-*April 2022 to April 2022*
+**CompTIA (Remote, Part-time)**  
+*April 2022 to Present*
 
-I served as a Subject Matter Expert (SME) for CompTIA’s Coding Foundations+ Objective Development workshop where I worked with a team of SMEs to develop the content of the certification exam by focusing on the technologies, skills, and best practices used by industry professionals.
+I serve as a Subject Matter Expert (SME) for CompTIA’s Coding Foundations+ workshops where I work with an international team of SMEs in developing content of the certification exam with a focus on technologies, skills, and best practices used by industry professionals.
 
 ## 🇸🇪
 **SEBx**  
