@@ -21,8 +21,8 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 * University of Queensland ITEE scholarship, 2004 *($50000 USD value)*
 
 ## Licenses and Certifications
-<a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="https://images.credly.com/size/680x680/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="100px" height="100px"></a>
-<a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-0fi5hTs4R72BgTQVc6FF_A.png" width="100px" height="100px"></a>
+<a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px" height="100px"></a>
+<a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="https://media.badgr.com/assertion-71176ddce1fe77796c4090ab6a5d127d.png" width="100px" height="100px"></a>
 <a href="https://devpost.com/cloudarchitect/achievements" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-512/devpost-569520.png" width="100px" height="100px"/></a>
 <a href="https://www.hackerrank.com/minimice" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="100px" height="100px"></a>
 <a href="https://app.pluralsight.com/profile/chooiguan-lim" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-128/pluralsight-3521645-2945089.png" width="100px" height="100px"></a>
