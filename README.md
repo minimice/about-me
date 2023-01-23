@@ -1,6 +1,6 @@
 
 # About me
-Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals with a customer base in the thousands.  I am an educator and contribute to the creation and evaluation of public technical certifications and content on platforms such as Coursera and certification authorities such as <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank">CompTIA</a>.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 15 years.  One of my life goals is to live and work in North America.
+Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals with a customer base in the thousands.  I am an educator and contribute to the creation and evaluation of public technical certifications and content on platforms such as Coursera and professional certification authorities such as <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank">CompTIA</a>.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 15 years.  One of my life goals is to live and work in North America.  I'm also a professional options trader and have been trading since 2019.
 
 ❓ If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
 
@@ -38,7 +38,13 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 **CompTIA (Remote, Part-time)**  
 *April 2022 to Present*
 
-I serve as a Subject Matter Expert (SME) for CompTIA’s Coding Foundations+ workshops where I work with an international team of SMEs in developing content of the certification exam with a focus on technologies, skills, and best practices used by industry professionals.
+I serve as a Subject Matter Expert (SME) for the Computing Technology Industry Association (CompTIA) where I work with an international team of SMEs in developing content of various certification exams with a focus on technologies, skills, and best practices used by industry professionals.
+
+Areas of Technical Expertise
+* Coding Foundations+
+* Cloud+
+
+CompTIA, based in Illinois, is an American non-profit trade association that issues professional certifications for the information technology (IT) industry. It is considered one of the IT industry's top trade associations and was established in 1982.  It issues vendor-neutral professional certifications in over 120 countries.  CompTIA subject matter experts are individuals who are deemed qualified to represent specific CompTIA certifications based on relevant and strong expertise, knowledge and experience in particular areas.
 
 ## 🇸🇪
 **SEBx**  
