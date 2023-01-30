@@ -1,6 +1,6 @@
 
 # About me
-Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals with a customer base in the thousands.  I am an educator and contribute to the creation and evaluation of public technical certifications and content on platforms such as Coursera and professional certification authorities such as <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank">CompTIA</a>.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 15 years.  One of my life goals is to live and work in North America.  I'm also a professional options trader and have been trading since 2019.
+Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  I'm also very familiar on the business side of things, having run <a href="https://www.skyjuicesoftware.com" target="_blank">Skyjuice Software</a>.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals with a customer base in the thousands.  I am an educator and contribute to the creation and evaluation of public technical certifications and content on platforms such as Coursera and professional certification authorities such as <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank">CompTIA</a>.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 17 years.  One of my life goals is to live and work in North America.  I hold an accredited Executive MBA and also an <a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank">options trader</a> and have been trading professionally since 2019.  Personally I've traded other derivatives but options is my bread and butter.
 
 ❓ If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
 
@@ -10,7 +10,9 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 
 ## Education
 * Executive MBA (Accredited), Quantic School of Business and Technology, Washington DC, USA, 2019
+  * Specialisations: Strategic Thinking, Advanced Finance, Advanced Corporate-Level Strategy, Supply Chain and Operations
 * Bachelors of Science (Honours 1) University Medallist Candidate (Top 1% of cohort), University of Queensland, Australia, 2006
+  * Thesis: Adaptive Digital Narrative for Children
 * Diploma in E-Business Application Development (Graduated top of cohort), Temasek Polytechnic, Singapore, 2003
 * Diploma in Multimedia Software Engineering, Singapore Polytechnic, Singapore, 2000
 
@@ -30,6 +32,8 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 
 <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank"><img src="./logos/comptia-subject-matter-expert.png" width="200px" height="200px"></a>
 
+<a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank"><img src="./logos/oic.png" width="270px" height="46px"></a>
+
 
 * See [here](https://www.dropbox.com/s/6dkoz9zes4s6llr/cv-certifications-2018.pdf?dl=0) for more
 
@@ -47,7 +51,7 @@ Areas of Technical Expertise
 CompTIA, based in Illinois, is an American non-profit trade association that issues professional certifications for the information technology (IT) industry. It is considered one of the IT industry's top trade associations and was established in 1982.  It issues vendor-neutral professional certifications in over 120 countries.  CompTIA subject matter experts are individuals who are deemed qualified to represent specific CompTIA certifications based on relevant and strong expertise, knowledge and experience in particular areas.
 
 ## 🇸🇪
-**SEBx**  
+**SEB**  
 *April 2022 to Present*
 
 In the platform engineering team.
