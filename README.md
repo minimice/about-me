@@ -47,6 +47,7 @@ I serve as a Subject Matter Expert (SME) for the Computing Technology Industry A
 Areas of Technical Expertise
 * Coding Foundations+
 * Cloud+
+* CloudNetX
 
 CompTIA, based in Illinois, is an American non-profit trade association that issues professional certifications for the information technology (IT) industry. It is considered one of the IT industry's top trade associations and was established in 1982.  It issues vendor-neutral professional certifications in over 120 countries.  CompTIA subject matter experts are individuals who are deemed qualified to represent specific CompTIA certifications based on relevant and strong expertise, knowledge and experience in particular areas.
 
