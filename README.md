@@ -31,7 +31,8 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 <a href="#" target="_blank"><img src="./logos/paypal-certified.png" width="203px" height="113px"></a>
 
 <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank"><img src="./logos/comptia-subject-matter-expert.png" width="200px" height="200px"></a>
-
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E763CA9BC9019F00C5215E127D58CE6D54F74E0FBCAB04C1C7811A1A817E959D" target="_blank"><img src="./logos/oracle-certified-associate.png" width="200px" height="200px"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oracle-certified-associate.png" width="200px" height="200px"></a>
 <a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank"><img src="./logos/oic.png" width="270px" height="46px"></a>
 
 
