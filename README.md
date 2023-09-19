@@ -30,11 +30,16 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 <a href="https://app.pluralsight.com/profile/chooiguan-lim" target="_blank"><img src="./logos/pluralsight.png" width="100px" height="100px" title="pluralsight profile"></a>
 <a href="#" target="_blank"><img src="./logos/paypal-certified.png" width="203px" height="113px"></a>
 
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3MYE2YZH9KM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank"><img src="./logos/google-cybersecurity-cert.png" width="220px" height="220px"></a>
 <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank"><img src="./logos/comptia-subject-matter-expert.png" width="200px" height="200px"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E763CA9BC9019F00C5215E127D58CE6D54F74E0FBCAB04C1C7811A1A817E959D" target="_blank"><img src="./logos/oracle-certified-associate.png" width="200px" height="200px"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oracle-certified-associate.png" width="200px" height="200px"></a>
-<a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank"><img src="./logos/oic.png" width="270px" height="46px"></a>
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E763CA9BC9019F00C5215E127D58CE6D54F74E0FBCAB04C1C7811A1A817E959D" target="_blank"><img src="./logos/oci-data-management-foundations.jpg" width="276px" height="138px"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oci-foundations.jpg" width="276px" height="138px"></a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EFD119E85DCBACC59039102BE85555D22177D0B32B942016278573AE1A6E2BB" target="_blank"><img src="./logos/oci-devops-pro.jpg" width="276px" height="138px"></a>
+
+<a href="https://www.credly.com/badges/1d4153ee-639b-4ef3-b841-abd4a40c49d8/public_url" target="_blank"></a>
+
+<a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank"><img src="./logos/oic.png" width="270px" height="46px"></a>
 
 * See [here](https://www.dropbox.com/s/6dkoz9zes4s6llr/cv-certifications-2018.pdf?dl=0) for more
 
