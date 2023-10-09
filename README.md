@@ -24,7 +24,7 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 
 ## Licenses and Certifications (Abridged)
 
-| 🏆⭐️🎗️ | Certification | Issuer | Date |
+| 🏆⭐️🎗️⭐️🏆 | Certification | Issuer | Date |
 | --- | --- | --- | --- |
 | <a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="./logos/aws-saa.png" width="100px" height="100px" title="aws saa"></a> | AWS Solutions Architect Associate | Amazon Web Services | 2018 |
 | <a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="./logos/gitlab-a.png" width="100px" height="100px" title="gitlab associate"></a> | GitLab Associate | GitLab | 2020 |
