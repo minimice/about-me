@@ -23,26 +23,22 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 * University of Queensland ITEE scholarship, 2004 *($50000 USD value)*
 
 ## Licenses and Certifications (Abridged)
-<a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="./logos/aws-saa.png" width="100px" height="100px" title="aws saa"></a>
-<a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="./logos/gitlab-a.png" width="100px" height="100px" title="gitlab associate"></a>
-<a href="https://devpost.com/cloudarchitect/achievements" target="_blank"><img src="./logos/devpost.png" width="100px" height="100px" title="devpost profile"/></a>
-<a href="https://www.hackerrank.com/minimice" target="_blank"><img src="./logos/hackerrank.png" width="100px" height="100px" title="hackerrank profile"></a>
-<a href="https://app.pluralsight.com/profile/chooiguan-lim" target="_blank"><img src="./logos/pluralsight.png" width="100px" height="100px" title="pluralsight profile"></a>
-<a href="#" target="_blank"><img src="./logos/paypal-certified.png" width="203px" height="113px"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/d52c041d-6373-4b25-8aaa-d5913818a58d" target="_blank"><img src="./logos/cloud-skills-boost.png" width="113px" height="111px"></a>
 
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3MYE2YZH9KM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank"><img src="./logos/google-cybersecurity-cert.png" width="220px" height="220px"></a>
-<a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank"><img src="./logos/comptia-subject-matter-expert.png" width="200px" height="200px"></a>
-
-
-
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E763CA9BC9019F00C5215E127D58CE6D54F74E0FBCAB04C1C7811A1A817E959D" target="_blank"><img src="./logos/oci-data-management-foundations.jpg" width="276px" height="138px"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oci-foundations.jpg" width="276px" height="138px"></a>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EFD119E85DCBACC59039102BE85555D22177D0B32B942016278573AE1A6E2BB" target="_blank"><img src="./logos/oci-devops-pro.jpg" width="276px" height="138px"></a>
-
-<a href="https://www.credly.com/badges/1d4153ee-639b-4ef3-b841-abd4a40c49d8/public_url" target="_blank"></a>
-
-<a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank"><img src="./logos/oic.png" width="270px" height="46px"></a>
+| Image | Certification | Issuer | Date |
+| --- | --- | --- | --- |
+| <a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="./logos/aws-saa.png" width="100px" height="100px" title="aws saa"></a> | AWS Solutions Architect Associate | Amazon Web Services | 2018 |
+| <a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="./logos/gitlab-a.png" width="100px" height="100px" title="gitlab associate"></a> | GitLab Associate | GitLab | 2020 |
+| <a href="https://devpost.com/cloudarchitect/achievements" target="_blank"><img src="./logos/devpost.png" width="100px" height="100px" title="devpost profile"/></a> | Devpost Profile | Devpost | N/A |
+| <a href="https://www.hackerrank.com/minimice" target="_blank"><img src="./logos/hackerrank.png" width="100px" height="100px" title="hackerrank profile"></a> | HackerRank Profile | HackerRank | N/A |
+| <a href="https://app.pluralsight.com/profile/chooiguan-lim" target="_blank"><img src="./logos/pluralsight.png" width="100px" height="100px" title="pluralsight profile"></a> | Pluralsight Profile | Pluralsight | N/A |
+| <a href="#" target="_blank"><img src="./logos/paypal-certified.png" width="101px" height="56px"></a> | PayPal Certified Developer | PayPal | 2008 |
+| <a href="https://www.cloudskillsboost.google/public_profiles/d52c041d-6373-4b25-8aaa-d5913818a58d" target="_blank"><img src="./logos/cloud-skills-boost.png" width="113px" height="111px"></a> | Google Cloud Skills Boost | Google | N/A |
+| <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3MYE2YZH9KM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank"><img src="./logos/google-cybersecurity-cert.png" width="110px" height="110px"></a> | Google Cybersecurity Professional Certificate | Coursera | 2023 |
+| <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank"><img src="./logos/comptia-subject-matter-expert.png" width="100px" height="100px"></a> | 3x CompTIA Subject Matter Expert | CompTIA | 2022 |
+| <a href="#" target="_blank"><img src="./logos/oci-data-management-foundations.jpg" width="100px" height="104px" title="OCI Certified"></a> | Oracle Cloud Data Management 2023 Certified Foundations Associate | Oracle | 2023 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oci-foundations.jpg" width="100px" height="104px" title="OCI Certified"></a> | Oracle Cloud Infrastructure 2023 Certified Foundations Associate | Oracle | 2023 |
+| <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EFD119E85DCBACC59039102BE85555D22177D0B32B942016278573AE1A6E2BB" target="_blank"><img src="./logos/oci-devops-pro.jpg" width="100px" height="104px" title="OCI Certified"></a> | Oracle Cloud Infrastructure 2023 Certified DevOps Professional | Oracle | 2023 |
+| <a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank"><img src="./logos/oic.png" width="100px" height="17px" title="Options Advanced"></a> | Options Advanced | Options Industry Council | 2014 |
 
 * See [here](https://www.dropbox.com/s/6dkoz9zes4s6llr/cv-certifications-2018.pdf?dl=0) for more
 
