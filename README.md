@@ -22,16 +22,19 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 * Apple WWDC scholarship, 2006 *($2500 USD value)*
 * University of Queensland ITEE scholarship, 2004 *($50000 USD value)*
 
-## Licenses and Certifications
+## Licenses and Certifications (Abridged)
 <a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="./logos/aws-saa.png" width="100px" height="100px" title="aws saa"></a>
 <a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="./logos/gitlab-a.png" width="100px" height="100px" title="gitlab associate"></a>
 <a href="https://devpost.com/cloudarchitect/achievements" target="_blank"><img src="./logos/devpost.png" width="100px" height="100px" title="devpost profile"/></a>
 <a href="https://www.hackerrank.com/minimice" target="_blank"><img src="./logos/hackerrank.png" width="100px" height="100px" title="hackerrank profile"></a>
 <a href="https://app.pluralsight.com/profile/chooiguan-lim" target="_blank"><img src="./logos/pluralsight.png" width="100px" height="100px" title="pluralsight profile"></a>
 <a href="#" target="_blank"><img src="./logos/paypal-certified.png" width="203px" height="113px"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/d52c041d-6373-4b25-8aaa-d5913818a58d" target="_blank"><img src="./logos/cloud-skills-boost.png" width="113px" height="111px"></a>
 
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q3MYE2YZH9KM?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof" target="_blank"><img src="./logos/google-cybersecurity-cert.png" width="220px" height="220px"></a>
 <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank"><img src="./logos/comptia-subject-matter-expert.png" width="200px" height="200px"></a>
+
+
 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E763CA9BC9019F00C5215E127D58CE6D54F74E0FBCAB04C1C7811A1A817E959D" target="_blank"><img src="./logos/oci-data-management-foundations.jpg" width="276px" height="138px"></a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oci-foundations.jpg" width="276px" height="138px"></a>
@@ -61,7 +64,7 @@ CompTIA, based in Illinois, is an American non-profit trade association that iss
 **SEB**  
 *April 2022 to Present*
 
-In the platform engineering team.
+Currently in the Security team, previously in the Platform Engineering team.
 
 **Schibsted**  
 *Oct 2021 to March 2022*
@@ -71,7 +74,7 @@ In the Cloud Governance team where I served as the AWS expert, providing best pr
 **H&M**  
 *Feb 2021 to Oct 2021*
 
-In the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.  I built terraform modules and served as the IaC expert, evaluating every team's IaC maturity level in the AI foundation business unit.
+In the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.  I built terraform modules and served as the IaC expert, evaluating every team's IaC maturity level in the AI foundation business unit (200+ people, 10+ teams).
 
 **Sinch**  
 *August 2020 to Feb 2021*
