@@ -1,6 +1,9 @@
 
 # About me
-Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  I'm also very familiar on the business side of things, having run <a href="https://www.skyjuicesoftware.com" target="_blank">Skyjuice Software</a>.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals with a customer base in the thousands.  I am an educator and contribute to the creation and evaluation of public technical certifications and content on platforms such as Coursera and professional certification authorities such as <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank">CompTIA</a>.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 17 years.  One of my life goals is to live and work in North America.  I hold an accredited Executive MBA and also an <a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank">options trader</a> and have been trading professionally since 2019.  Personally I've traded other derivatives but options is my bread and butter.
+
+ℹ️ _This README is best viewed in a desktop browser_ ℹ️
+
+Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains work and references that I've done through my career.  I have worked across various roles and domains throughout my life, and presently I work as a Cloud architect specialising in Cloud and DevOps.  I'm also very familiar on the business side of things, having run <a href="https://www.skyjuicesoftware.com" target="_blank">Skyjuice Software</a>.  As a teenager studying for my diploma, I wrote my first peice of software which I sold to a pharmeceutical company (Agouron Pharmaceuticals).  Before finishing my college degree, I was already writing and selling software to Fortune companies like Amazon, P&G, Boeing, Rockstar Games as well as many other companies and individuals.  I am an educator and contribute to the creation and evaluation of public technical certifications and content on platforms such as Coursera and professional certification authorities such as <a href="https://www.credly.com/badges/b0696bad-7654-4819-b291-b3ecf8c37447/public_url" target="_blank">CompTIA</a>.  I utilise my technical skills, ability to work with others and deliver quality software, to travel and live around the world.  As of this writing, I have lived and worked in some of the best and well known companies in the world in 5 countries over 3 continents for over 17 years.  One of my life goals is to live and work in North America.  I hold an accredited Executive MBA and also an <a href="https://www.dropbox.com/s/0u3qd88r9m3btff/options_advanced.pdf?dl=0" target="_blank">options trader</a> and have been trading professionally since 2019.  Personally I've traded other derivatives but options is my bread and butter.
 
 ❓ If you're interested in reading the story of Skyjuice Software, you can find out [here](http://bit.ly/soe2008).
 
@@ -9,6 +12,7 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 **TDLR; I can help you build the next Amazon.com**
 
 ## Education
+* Executive MBA Continuing Education Program in Business and AI, Quantic School of Business and Technology, Washington DC, USA, 2023 (_Ongoing, expected graduation 2024_)
 * Executive MBA (Accredited), Quantic School of Business and Technology, Washington DC, USA, 2019
   * Specialisations: Strategic Thinking, Advanced Finance, Advanced Corporate-Level Strategy, Supply Chain and Operations
 * Bachelors of Science (Honours 1) University Medallist Candidate (Top 1% of cohort), University of Queensland, Australia, 2006
@@ -17,10 +21,16 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 * Diploma in Multimedia Software Engineering, Singapore Polytechnic, Singapore, 2000
 
 ## Awards
+* Executive MBA Continuing Education scholarship, 2023 *($1000 USD value)*
 * [AWS re:Invent Hackathon for Good winner, 2019](https://aws.amazon.com/blogs/publicsector/reinvent-2019-nonprofit-hackathon-for-good-crowns-winner-to-support-mental-and-emotional-well-being-nonprofit/#:~:text=At%20the%20re%3AInvent%202019,Institute%2C%20and%20Vibrant%20Emotional%20Health.)
+* [Top 5% (Silver medallist)](http://bit.ly/cgl-hrwoc25) at Hackerrank Hackathon, 2016
 * Executive MBA scholarship, 2018 *($2800 USD value)*
+* Spirit of Enterprise National Award nominee in recognition of entrepreneurship, 2008
 * Apple WWDC scholarship, 2006 *($2500 USD value)*
+* Top 1% of university cohort, university medallist candidate, 6.70 GPA (Max 7.0), 2006
 * University of Queensland ITEE scholarship, 2004 *($50000 USD value)*
+
+
 
 ## Licenses and Certifications (Abridged)
 
@@ -60,7 +70,7 @@ CompTIA, based in Illinois, is an American non-profit trade association that iss
 **SEB**  
 *April 2022 to Present*
 
-Currently in the Security team, previously in the Platform Engineering team.
+In the Security team and Platform Engineering teams.
 
 **Schibsted**  
 *Oct 2021 to March 2022*
