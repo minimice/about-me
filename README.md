@@ -36,6 +36,7 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 
 | 🏆⭐️🎗️⭐️🏆 | Certification | Issuer | Date |
 | --- | --- | --- | --- |
+| <a href="https://www.credly.com/badges/460ed391-b463-4144-8ab8-cf96a9e5221c/public_url" target="_blank"><img src="./logos/gcp-pca.png" width="100px" height="100px" title="aws saa"></a> | Google Cloud Professional Cloud Architect | Google Cloud | 2024 |
 | <a href="https://www.credly.com/badges/c54918d6-6370-4099-afa8-122d6d4fa067" target="_blank"><img src="./logos/aws-saa.png" width="100px" height="100px" title="aws saa"></a> | AWS Solutions Architect Associate | Amazon Web Services | 2018 |
 | <a href="https://gitlab.badgr.com/public/assertions/0fi5hTs4R72BgTQVc6FF_A" target="_blank"><img src="./logos/gitlab-a.png" width="100px" height="100px" title="gitlab associate"></a> | GitLab Associate | GitLab | 2020 |
 | <a href="https://bcert.me/sqcwagiwe" target="_blank"><img src="./logos/csm.png" width="100px" height="100px" title="certified scrummaster"></a> | Certified ScrumMaster | Scrum Alliance | 2016 |
