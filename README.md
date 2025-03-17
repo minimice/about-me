@@ -12,7 +12,8 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 **TDLR; I can help you build the next Amazon.com**
 
 ## Education
-* Executive MBA Continuing Education Program in Business and AI, Quantic School of Business and Technology, Washington DC, USA, 2023 (_Ongoing, expected graduation 2024_)
+* Professional Chocolatier Course, Bells Institute of Higher Learning, Singapore, 2025
+* Executive MBA Continuing Education Program in Business and AI, Quantic School of Business and Technology, Washington DC, USA, 2024
 * Executive MBA (Accredited), Quantic School of Business and Technology, Washington DC, USA, 2019
   * Specialisations: Strategic Thinking, Advanced Finance, Advanced Corporate-Level Strategy, Supply Chain and Operations
 * Bachelors of Science (Honours 1) University Medallist Candidate (Top 1% of cohort), University of Queensland, Australia, 2006
@@ -59,7 +60,7 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 
 ## Career
 ## 🇺🇸
-**CompTIA (Remote, Part-time)**  
+**CompTIA (Part-time)**  
 *April 2022 to Present*
 
 I serve as a Subject Matter Expert (SME) for the Computing Technology Industry Association (CompTIA) where I work with an international team of SMEs in developing content of various certification exams with a focus on technologies, skills, and best practices used by industry professionals.
@@ -73,24 +74,41 @@ CompTIA, based in Illinois, is an American non-profit trade association that iss
 
 ## 🇸🇪
 **SEB**  
-*April 2022 to Present*
+*April 2022 to November 2024*
 
-In the Security team and Platform Engineering teams.
+Lead and Senior Engineer in the Security team and Platform Engineering teams. I worked in both teams providing technical expertise, guidance, mentorship as well as lead initiatives.
+
+Salary and benefits ★★★☆☆  
+Career growth ★☆☆☆☆  
+People ★★☆☆☆  
+
 
 **Schibsted**  
 *Oct 2021 to March 2022*
 
 In the Cloud Governance team where I served as the AWS expert, providing best practise guidance on everything cloud.
 
+Salary and benefits ★★☆☆☆  
+Career growth ★★☆☆☆  
+People ★★☆☆☆  
+
 **H&M**  
 *Feb 2021 to Oct 2021*
 
 In the AI Foundation team (Dev tools and infra) building a unified MLOps platform where teams can share their usecases and build ML models.  I built terraform modules and served as the IaC expert, evaluating every team's IaC maturity level in the AI foundation business unit (200+ people, 10+ teams).
 
+Salary and benefits ★★☆☆☆  
+Career growth ★★☆☆☆  
+People ★★★☆☆  
+
 **Sinch**  
 *August 2020 to Feb 2021*
 
 In the RTC operations team where I helped to improve/monitor their infrastructure on AWS.  Their platform enables billions of transactions a year.
+
+Salary and benefits ★★☆☆☆  
+Career growth ★★☆☆☆  
+People ★★★☆☆  
 
 ## 🇦🇪
 **Etisalat**  
@@ -98,16 +116,28 @@ In the RTC operations team where I helped to improve/monitor their infrastructur
 
 Served as AWS Architect working on the Expo 2020 project.
 
+Salary and benefits ★★★★☆  
+Career growth ★★☆☆☆  
+People ★☆☆☆☆  
+
 ## 🇸🇪
 **Scania**  
 *Feb 2017 to June 2019*
 
 Team Cloud Lead where I helped two teams (Driver Evaluation, Strategic Planning) with their cloud journey.
 
+Salary and benefits ★★★☆☆  
+Career growth ★★★★☆  
+People ★★★☆☆  
+
 **Record Union**  
 *May 2016 to Jan 2017*
 
 A small startup where I worked as Senior Software Engineer and Scrum Master.
+
+Salary and benefits ★★☆☆☆  
+Career growth ★☆☆☆☆  
+People ★☆☆☆☆  
 
 ## 🇳🇴
 **Cisco Systems**  
@@ -115,12 +145,20 @@ A small startup where I worked as Senior Software Engineer and Scrum Master.
 
 Senior Software Engineer (Software Engineer III) where I worked in the TMSXE team and later, the Core TMS team.
 
+Salary and benefits ★★★★★  
+Career growth ★★★★☆  
+People ★★★★☆  
+
 ## 🇦🇺
 
 **Boeing**  
 *Oct 2007 to Oct 2010*
 
 Senior Software Engineer where I worked in the IPTIS (journey planning) team.
+
+Salary and benefits ★★★☆☆  
+Career growth ★★★★☆  
+People ★★★★☆  
 
 **The Bridge Volunteer Organisation**  
 *Jan 2007 to Nov 2008* 
