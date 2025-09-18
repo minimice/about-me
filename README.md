@@ -51,6 +51,9 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 | <a href="#" target="_blank"><img src="./logos/oci-data-management-foundations.jpg" width="100px" height="104px" title="OCI Certified"></a> | Oracle Cloud Data Management 2023 Certified Foundations Associate | Oracle | 2023 |
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=2A9427CC288E919D63662FE77792A55BA231C619813164C5E8243895739D7DFF" target="_blank"><img src="./logos/oci-foundations.jpg" width="100px" height="104px" title="OCI Certified"></a> | Oracle Cloud Infrastructure 2023 Certified Foundations Associate | Oracle | 2023 |
 | <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0EFD119E85DCBACC59039102BE85555D22177D0B32B942016278573AE1A6E2BB" target="_blank"><img src="./logos/oci-devops-pro.jpg" width="100px" height="104px" title="OCI Certified"></a> | Oracle Cloud Infrastructure 2023 Certified DevOps Professional | Oracle | 2023 |
+| <a href="https://www.credly.com/badges/3d0e2c0c-b78a-496f-bfe3-eca8680bc80b/public_url" target="_blank"><img src="./logos/csap.png" width="96px" height="96px" title="CompTIA Certified"></a> | CompTIA Security Analytics Professional | CompTIA | 2025 |
+| <a href="https://www.credly.com/badges/793b9262-b674-4305-a2c8-dab83e887116/public_url" target="_blank"><img src="./logos/cnsp.png" width="96px" height="96px" title="CompTIA Certified"></a> | CompTIA Network Security Professional | CompTIA | 2025 |
+| <a href="https://www.credly.com/badges/e2c3ef54-1338-411d-b318-539a4e7310a5/public_url" target="_blank"><img src="./logos/cysaplus.png" width="96px" height="96px" title="CompTIA Certified"></a> | CompTIA CySA+ | CompTIA | 2025 |
 | <a href="https://www.credly.com/badges/067f39cd-cdf8-4400-bc5a-2970523fa054/public_url" target="_blank"><img src="./logos/ccloudnetx.png" width="96px" height="96px" title="CompTIA Certified"></a> | CompTIA CloudNetX | CompTIA | 2025 |
 | <a href="https://www.credly.com/badges/3e0e1bf1-69c7-4f54-9b87-172c03fa8c6f" target="_blank"><img src="./logos/cnvp.jpg" width="96px" height="84px" title="CompTIA Certified"></a> | CompTIA Network Vulnerability Assessment Professional | CompTIA | 2025 |
 | <a href="https://www.credly.com/badges/a18176f2-bb89-4c4b-a683-20af6ae1ee35" target="_blank"><img src="./logos/cpentest.png" width="96px" height="96px" title="CompTIA Certified"></a> | CompTIA PenTest+ | CompTIA | 2025 |
@@ -68,13 +71,15 @@ Hello there, I'm **Chooi Guan** (Yes, that's my first name).  This repo contains
 **CompTIA (Part-time)**  
 *April 2022 to Present*
 
-I serve as a Subject Matter Expert (SME) for the Computing Technology Industry Association (CompTIA) where I work with an international team of SMEs in developing content of various certification exams with a focus on technologies, skills, and best practices used by industry professionals.
+I serve as a member onboard CompTIA's Certification SME Technical Advisory Committee (CSTAC), an elite group of Subject Matter Experts (SMEs). As an SME, I work with an international team of SMEs in developing content of various certification exams with a focus on technologies, skills, and best practices used by industry professionals.
 
 Areas of Technical Expertise
 * Coding Foundations+
 * Cloud+
 * CloudNetX
 * +AutoCode
+
+
 
 CompTIA, based in Illinois, is an American non-profit trade association that issues professional certifications for the information technology (IT) industry. It is considered one of the IT industry's top trade associations and was established in 1982.  It issues vendor-neutral professional certifications in over 120 countries.  CompTIA subject matter experts are individuals who are deemed qualified to represent specific CompTIA certifications based on relevant and strong expertise, knowledge and experience in particular areas.
 
